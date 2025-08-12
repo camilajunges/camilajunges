@@ -11,10 +11,10 @@ Olá! Sou um Desenvolvedor Backend Júnior em formação, com uma paixão especi
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
-- [cite_start]**Linguagens:** `PL/SQL` [cite: 6, 11][cite_start], `SQL` [cite: 6, 11][cite_start], `Python` [cite: 11][cite_start], `JavaScript` [cite: 11][cite_start], `HTML` [cite: 11][cite_start], `CSS` [cite: 11]
-- [cite_start]**Frameworks & Bibliotecas:** `Django` [cite: 11][cite_start], `Flask` [cite: 11][cite_start], `Oracle APEX` [cite: 11][cite_start], `Oracle Integration Cloud (OIC)` [cite: 11][cite_start], `SOA Suite` [cite: 11]
-- [cite_start]**Bancos de Dados:** `Oracle` [cite: 6, 7, 11]
-- [cite_start]**Ferramentas:** `SQL Developer` [cite: 11][cite_start], `BI Publisher` [cite: 11][cite_start], `Git` [cite: 11][cite_start], `JIRA` [cite: 18]
+- **Linguagens:** `PL/SQL`, `SQL`, `Python`, `JavaScript`, `HTML`, `CSS`
+- **Frameworks & Bibliotecas:** `Django`, `Flask`, `Oracle APEX`, `Oracle Integration Cloud (OIC)`, `SOA Suite`
+- **Bancos de Dados:** `Oracle`
+- **Ferramentas:** `SQL Developer`, `BI Publisher`, `Git`, `JIRA`
 ---
 
 ### 📈 Estatísticas do GitHub
