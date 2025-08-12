@@ -27,38 +27,42 @@ Meu objetivo é criar sistemas que sejam não apenas funcionais, mas também **e
 ### 🔤 Linguagens de Programação
 <div align="center">
 
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Aplicando paleta de cores personalizada para linguagens -->
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-4A707A?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7697A0?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-94B0B7?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B0BEC5?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-CFD8DC?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ESEBEF?style=for-the-badge&logo=css3&logoColor=black)
 
 </div>
 
 ### 🛠️ Frameworks & Bibliotecas
 <div align="center">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<!-- Aplicando paleta de cores personalizada para frameworks -->
+![Django](https://img.shields.io/badge/Django-4A707A?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-7697A0?style=for-the-badge&logo=flask&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-94B0B7?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
 ### 🗄️ Banco de Dados
 <div align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<!-- Aplicando paleta de cores personalizada para banco de dados -->
+![Oracle](https://img.shields.io/badge/Oracle-B0BEC5?style=for-the-badge&logo=oracle&logoColor=black)
 
 </div>
 
 ### 🔧 Ferramentas & Tecnologias
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Oracle Integration Cloud](https://img.shields.io/badge/Oracle%20OIC-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SOA Suite](https://img.shields.io/badge/SOA%20Suite-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<!-- Aplicando paleta de cores personalizada para ferramentas -->
+![Git](https://img.shields.io/badge/Git-4A707A?style=for-the-badge&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-7697A0?style=for-the-badge&logo=jira&logoColor=white)
+![Oracle Integration Cloud](https://img.shields.io/badge/Oracle%20OIC-94B0B7?style=for-the-badge&logo=oracle&logoColor=white)
+![SOA Suite](https://img.shields.io/badge/SOA%20Suite-B0BEC5?style=for-the-badge&logo=oracle&logoColor=black)
 
 </div>
 
