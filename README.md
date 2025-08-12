@@ -1,7 +1,7 @@
 ### Olá, eu sou [Seu Nome] 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/camila-sara-b2b648271])
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([[Link para seu perfil do GitHub](https://github.com/camilajunges)])
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([(https://github.com/camilajunges)])
 
 Olá! Sou um Desenvolvedor Backend Júnior em formação, com uma paixão especial por bancos de dados e arquitetura de sistemas. Meu objetivo é criar APIs e serviços que sejam não apenas funcionais, mas também escaláveis e seguros. Estou sempre em busca de projetos que me permitam crescer e aprimorar minhas habilidades!
 
