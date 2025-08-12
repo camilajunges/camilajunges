@@ -20,8 +20,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Seu-Usuário-GitHub]&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Seu-Usuário-GitHub]&layout=compact&theme=dracula" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[camilajunges]&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[camilajunges]&layout=compact&theme=dracula" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
